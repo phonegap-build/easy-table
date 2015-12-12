@@ -1,12 +1,12 @@
 {
   "author": "Eldar Gabdullin <eldargab@gmail.com>",
-  "name": "easy-table",
+  "name": "easy-utf8-table",
   "description": "Nice text table for the CLI",
   "keywords": ["table", "text", "cli"],
-  "version": "1.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://eldargab@github.com/eldargab/easy-table.git"
+    "url": "https://github.com/phonegap-build/easy-table.git"
   },
   "main": "./lib/table",
   "devDependencies": {
